@@ -4,15 +4,13 @@
 
 ## I'm a FullStack-Developer student!!
 
-- 🔭 I’m currently stundin with Driven Education.
+- 🔭 I’m currently studying with Driven Education.
 - 🌱 I’m currently learning JavaScript
-
 - 💬 Ask me about ... Anything
+- ⚡ Fun fact: I'm a great Marvel and DC fan.
 
-- ⚡ Fun fact: I realy like spider-man movies
 
-
-### Talk with me, I am kinda awesome:
+### Talk with me:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
