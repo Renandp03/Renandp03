@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renan Damascena</h1>
 <h3 align="center">FullStack Developer and designer</h3>
 
-- 🔭 I’m currently working on [SP-labs_project](https://github.com/Renandp03/SP-labs_project)
+- 🔭 I’m currently working on [stock-pocket](https://github.com/Renandp03/SP-labs_project)
 
 - 🌱 I’m currently learning **Unit and integration tests with Jest**
 
