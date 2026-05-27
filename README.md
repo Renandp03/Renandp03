@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Renan Damascena</h1>
 <h3 align="center">FullStack Developer and designer</h3>
 
-- 🔭 I’m currently working on [stock-pocket](https://github.com/Renandp03/SP-labs_project)
+- 🔭 I’m currently working on [stock-pocket](https://github.com/Renandp03/stock-pocket)
 
-- 🌱 I’m currently learning **Unit and integration tests with Jest**
+- 🌱 I’m currently learning **Prompt Engineering and Generative AI**
 
 - 💬 Ask me about **NodeJs, ReactJs, SQL and noSQL**
 
 - 📫 How to reach me **renandamascena@gmail.com**
 
-- ⚡ Fun fact **I'm a teacher in my spare time**
+- ⚡ Fun fact **I love board games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
