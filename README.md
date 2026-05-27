@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renan Damascena</h1>
 <h3 align="center">FullStack Developer and designer</h3>
 
-- 🔭 I’m currently working on [stock-pocket](https://github.com/Renandp03/stock-pocket)
+- 🔭 I’m currently working on [stock-pocket](https://github.com/Renandp03/stock-pocket-web-app)
 
 - 🌱 I’m currently learning **Prompt Engineering and Generative AI**
 
